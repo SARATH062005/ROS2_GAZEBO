@@ -1,0 +1,47 @@
+[0.017s] Invoking command in '/home/ubuntu/dev_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/src -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/articubot_one
+[0.033s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.145s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.154s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.218s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.220s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.221s] -- Added test 'lint_cmake' to check CMake code style
+[0.221s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.222s] -- Added test 'xmllint' to check XML markup files
+[0.225s] -- Configuring done
+[0.230s] -- Generating done
+[0.231s] -- Build files have been written to: /home/ubuntu/dev_ws/build/articubot_one
+[0.235s] Invoked command in '/home/ubuntu/dev_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/src -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/articubot_one
+[0.236s] Invoking command in '/home/ubuntu/dev_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/articubot_one -- -j8 -l8
+[0.280s] Invoked command in '/home/ubuntu/dev_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/articubot_one -- -j8 -l8
+[0.291s] Invoking command in '/home/ubuntu/dev_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/articubot_one
+[0.298s] -- Install configuration: ""
+[0.298s] -- Execute custom install script
+[0.299s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/config/drive_bot.rviz
+[0.310s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/config/drive_bot.rvizrviz.rviz
+[0.321s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/config/empty.yaml
+[0.331s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/config/view_bot.rviz
+[0.341s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/description/gazebo_control.xacro
+[0.351s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/description/inertial_macros.xacro
+[0.361s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/description/lidar.xacro
+[0.370s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/description/robot.urdf.xacro
+[0.380s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/description/robot_core.xacro
+[0.390s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/launch/launch_sim.launch.py
+[0.400s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/launch/rsp.launch.py
+[0.411s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/worlds/empty.world
+[0.421s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/worlds/obstacles.world
+[0.431s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/ament_index/resource_index/package_run_dependencies/articubot_one
+[0.442s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/ament_index/resource_index/parent_prefix_path/articubot_one
+[0.452s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.sh
+[0.461s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.dsv
+[0.471s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/environment/path.sh
+[0.481s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/environment/path.dsv
+[0.491s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/local_setup.bash
+[0.501s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/local_setup.sh
+[0.513s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/local_setup.zsh
+[0.523s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/local_setup.dsv
+[0.534s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/package.dsv
+[0.545s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/ament_index/resource_index/packages/articubot_one
+[0.556s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig.cmake
+[0.567s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig-version.cmake
+[0.577s] -- Symlinking: /home/ubuntu/dev_ws/install/articubot_one/share/articubot_one/package.xml
+[0.593s] Invoked command in '/home/ubuntu/dev_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/articubot_one
