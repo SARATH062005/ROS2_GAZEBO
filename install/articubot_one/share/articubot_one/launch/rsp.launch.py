@@ -1,1 +1,1 @@
-/home/ubuntu/dev_ws/src/launch/rsp.launch.py
+/home/ubuntu/bot_ws/src/launch/rsp.launch.py

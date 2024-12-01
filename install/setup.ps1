@@ -25,6 +25,7 @@ function _colcon_prefix_chain_powershell_source_script {
 _colcon_prefix_chain_powershell_source_script "/opt/ros/humble\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/ubuntu/ros2_ws/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/ubuntu/new_ws/install\local_setup.ps1"
+_colcon_prefix_chain_powershell_source_script "/home/ubuntu/dev_ws/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/ubuntu/yolobot/install\local_setup.ps1"
 
 # source this prefix

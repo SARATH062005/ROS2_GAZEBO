@@ -1,1 +1,1 @@
-/home/ubuntu/dev_ws/build/articubot_one/ament_cmake_environment_hooks/local_setup.sh
+/home/ubuntu/bot_ws/build/articubot_one/ament_cmake_environment_hooks/local_setup.sh

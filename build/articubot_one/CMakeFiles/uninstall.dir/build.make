@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ubuntu/dev_ws/src
+CMAKE_SOURCE_DIR = /home/ubuntu/bot_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ubuntu/dev_ws/build/articubot_one
+CMAKE_BINARY_DIR = /home/ubuntu/bot_ws/build/articubot_one
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/ubuntu/dev_ws/build/articubot_one && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu/dev_ws/src /home/ubuntu/dev_ws/src /home/ubuntu/dev_ws/build/articubot_one /home/ubuntu/dev_ws/build/articubot_one /home/ubuntu/dev_ws/build/articubot_one/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ubuntu/bot_ws/build/articubot_one && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu/bot_ws/src /home/ubuntu/bot_ws/src /home/ubuntu/bot_ws/build/articubot_one /home/ubuntu/bot_ws/build/articubot_one /home/ubuntu/bot_ws/build/articubot_one/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 
