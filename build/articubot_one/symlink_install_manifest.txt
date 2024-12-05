@@ -2,6 +2,8 @@
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/drive_bot.rvizrviz.rviz
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/empty.yaml
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/mapper_params_online_async.yaml
+/home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/nav2_params.yaml
+/home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/twist_mux.yaml
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/config/view_bot.rviz
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/description/camera.xacro
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/description/depth_camera.xacro
@@ -11,6 +13,8 @@
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/description/robot.urdf.xacro
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/description/robot_core.xacro
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/launch/launch_sim.launch.py
+/home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/launch/localization_launch.py
+/home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/launch/navigation_launch.py
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/launch/rsp.launch.py
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/worlds/OBSTACLE
 /home/ubuntu/bot_ws/install/articubot_one/share/articubot_one/worlds/empty.world
